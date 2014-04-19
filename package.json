@@ -1,0 +1,16 @@
+{ 
+  "name": "puddle",
+  "version": "0.0.2",
+  "description": "simple server pool health monitor",
+  "main": "index.js",
+  "author": "Julian Browne",
+  "license": "MIT",
+  "repository": { 
+    "type": "git",
+    "url": "https://github.com/julianbrowne/puddle"
+  },
+  "bugs": { 
+    "url": "https://github.com/julianbrowne/puddle/issues"
+  },
+  "homepage": "https://github.com/julianbrowne/puddle"
+}
